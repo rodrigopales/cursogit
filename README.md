@@ -1,2 +1,4 @@
-# cursogit
-contém tudo que vou aprender com curso de git
+# Curso Git
+-Introdução ao git
+-Guia básico git 
+-Lista de comandos aprendidos e comentários sobre eles
