@@ -4,3 +4,6 @@
 -Guia básico git 
 
 -Lista de comandos aprendidos e comentários sobre eles
+
+
+-VIM curso básico iniciantes.
