@@ -469,7 +469,7 @@ Nota: Isso é muito útil para "debugar" um programa com parênteses não-casado
 		   Lição 4.4: UMA MANEIRA DE CORRIGIR ERROS
 
 
-      ** Digite  :s/velho/novo/g  para substituir 'novo' por 'velho'. **
+      ** Digite  :s/novo/novo/g  para substituir 'novo' por 'novo'. **
 
   1. Mova o cursor para a linha abaixo marcada com --->.
 
@@ -479,7 +479,7 @@ Nota: Isso é muito útil para "debugar" um programa com parênteses não-casado
   3. Agora digite  :s/aa/a/g   significando substituir globalmente na linha.
      Isto muda todas as ocorrências na linha.
 
----> aa melhor maneira de aprender é aa concentração e aa perseverança. 
+---> a melhor maneira de aprender é a concentração e a perseverança. 
 
   4. Para mudar toda ocorrência de uma string entre duas linhas,
      digite  :#,#s/velho/novo/g   onde #,# são os números das duas linhas.
@@ -643,6 +643,7 @@ NOTA: O arquivo que você recupera é posicionado na posição corrente do curso
      Inserção.
 
 ---> Após teclar  o  o cursor é colocado na linha aberta no Modo de Inserção.
+---> Após teclar  o  o cursor é colocado na linha aberta no Modo de Inserção.
 
   4. Para abrir uma linha ACIMA do cursor, simplesmente tecle um  O maiúsculo,
      em vez de um  o  minúsculo. Tente isso na linha abaixo.
@@ -671,7 +672,7 @@ Nota: Isto evita teclar  i , o último caracter, o texto a inserir, <ESC>,
      ao modo de inserção, exceto pelo local onde o texto vai ser inserido.
 
 
----> Esta linha permite você praticar
+---> Esta linha permite você praticar adicionando texto ao final da linha.
 ---> Esta linha permite você praticar adicionando texto ao final da linha.
 
 
@@ -690,7 +691,7 @@ Nota: Isto evita teclar  i , o último caracter, o texto a inserir, <ESC>,
   3. Agora digite  R  e substitua o restante do texto na primeira linha 
      digitando em cima do texto velho para deixa-la igual à segunda.
 
----> Para fazer a primeira linha igual à última nesta página use as teclas.
+---> Para fazer a primeira linha igual à segunda,tecle R e o novo texto.
 ---> Para fazer a primeira linha igual à segunda, tecle R e o novo texto.
 
   4. Note que quando você tecla <ESC> para sair, todo texto inalterado 
