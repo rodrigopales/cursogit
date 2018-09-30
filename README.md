@@ -34,4 +34,4 @@ git log -stat -> visualiando histórico em resumo
 
 git commit --amend -> desfazer último commit
 
-git remote add <abreviacao> [url] -> adicionando repositorio padrão para o projeto com uma abreviação para ele
+git remote add [abreviacao] [url] -> adicionando repositorio padrão para o projeto com uma abreviação para ele
